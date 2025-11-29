@@ -1,0 +1,74 @@
+name,start,due
+Initialize Node Project,11/29/2025,12/16/2025
+Install Dependencies,11/29/2025,12/16/2025
+Set Up Environment Variables,11/29/2025,12/16/2025
+Connect PostgreSQL,11/29/2025,12/16/2025
+Set Up Folder Structure,11/29/2025,12/16/2025
+Create Database Migrations,11/29/2025,12/16/2025
+Create User (Sign Up),11/29/2025,12/16/2025
+Log In User,11/29/2025,12/16/2025
+Log Out User,11/29/2025,12/16/2025
+Delete User,11/29/2025,12/16/2025
+Create Crystal,11/29/2025,12/16/2025
+Read Crystals,11/29/2025,12/16/2025
+Read Single Crystal,11/29/2025,12/16/2025
+Update Crystal,11/29/2025,12/16/2025
+Delete Crystal,11/29/2025,12/16/2025
+Create Category,11/29/2025,12/16/2025
+Read Categories,11/29/2025,12/16/2025
+Read Single Category,11/29/2025,12/16/2025
+Update Category,11/29/2025,12/16/2025
+Delete Category,11/29/2025,12/16/2025
+Create Intention,11/29/2025,12/16/2025
+Read Intentions,11/29/2025,12/16/2025
+Read Single Intention,11/29/2025,12/16/2025
+Update Intention,11/29/2025,12/16/2025
+Delete Intention,11/29/2025,12/16/2025
+Create Chakra,11/29/2025,12/16/2025
+Read Chakras,11/29/2025,12/16/2025
+Read Single Chakra,11/29/2025,12/16/2025
+Update Chakra,11/29/2025,12/16/2025
+Delete Chakra,11/29/2025,12/16/2025
+Create Zodiac,11/29/2025,12/16/2025
+Read Zodiacs,11/29/2025,12/16/2025
+Read Single Zodiac,11/29/2025,12/16/2025
+Update Zodiac,11/29/2025,12/16/2025
+Delete Zodiac,11/29/2025,12/16/2025
+Assign Crystal to Category,11/29/2025,12/16/2025
+Assign Crystal to Intention,11/29/2025,12/16/2025
+Assign Crystal to Chakra,11/29/2025,12/16/2025
+Assign Crystal to Zodiac,11/29/2025,12/16/2025
+Remove Crystal Associations,11/29/2025,12/16/2025
+Add Favorite Crystal,11/29/2025,12/16/2025
+Remove Favorite Crystal,11/29/2025,12/16/2025
+Read User Favorites,11/29/2025,12/16/2025
+Create Cart,11/29/2025,12/16/2025
+Add Item to Cart,11/29/2025,12/16/2025
+Update Cart Item,11/29/2025,12/16/2025
+Remove Cart Item,11/29/2025,12/16/2025
+Read Cart,11/29/2025,12/16/2025
+Create Order,11/29/2025,12/16/2025
+Read Orders,11/29/2025,12/16/2025
+Read Single Order,11/29/2025,12/16/2025
+Create Review,11/29/2025,12/16/2025
+Read Reviews,11/29/2025,12/16/2025
+Read Single Review,11/29/2025,12/16/2025
+Update Review,11/29/2025,12/16/2025
+Delete Review,11/29/2025,12/16/2025
+Global Error Handler,11/29/2025,12/16/2025
+Validation Error Handling,11/29/2025,12/16/2025
+Authentication Error Handling,11/29/2025,12/16/2025
+Not Found Error Handling,11/29/2025,12/16/2025
+Foreign Key Error Handling,11/29/2025,12/16/2025
+Database Error Handling,11/29/2025,12/16/2025
+Document Users API Endpoints,11/29/2025,12/16/2025
+Document Crystals API Endpoints,11/29/2025,12/16/2025
+Document Categories API Endpoints,11/29/2025,12/16/2025
+Document Intentions API Endpoints,11/29/2025,12/16/2025
+Document Chakras API Endpoints,11/29/2025,12/16/2025
+Document Zodiacs API Endpoints,11/29/2025,12/16/2025
+Document Favorites API Endpoints,11/29/2025,12/16/2025
+Document Cart API Endpoints,11/29/2025,12/16/2025
+Document Orders API Endpoints,11/29/2025,12/16/2025
+Document Reviews API Endpoints,11/29/2025,12/16/2025
+Create Error Response Documentation,11/29/2025,12/16/2025
